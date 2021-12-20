@@ -1,0 +1,12 @@
+c:\users\fullsail\documents\visual studio 2015\Projects\VideoLeigan\VideoLeigan\bin\Debug\VideoLeigan.exe.config
+c:\users\fullsail\documents\visual studio 2015\Projects\VideoLeigan\VideoLeigan\bin\Debug\VideoLeigan.exe
+c:\users\fullsail\documents\visual studio 2015\Projects\VideoLeigan\VideoLeigan\bin\Debug\VideoLeigan.pdb
+c:\users\fullsail\documents\visual studio 2015\Projects\VideoLeigan\VideoLeigan\obj\Debug\VideoLeigan.csprojResolveAssemblyReference.cache
+c:\users\fullsail\documents\visual studio 2015\Projects\VideoLeigan\VideoLeigan\obj\Debug\VideoLeigan.exe
+c:\users\fullsail\documents\visual studio 2015\Projects\VideoLeigan\VideoLeigan\obj\Debug\VideoLeigan.pdb
+C:\Users\andris.v16\Downloads\VideoLeigan\VideoLeigan\VideoLeigan\bin\Debug\VideoLeigan.exe.config
+C:\Users\andris.v16\Downloads\VideoLeigan\VideoLeigan\VideoLeigan\obj\Debug\VideoLeigan.exe
+C:\Users\andris.v16\Downloads\VideoLeigan\VideoLeigan\VideoLeigan\obj\Debug\VideoLeigan.pdb
+C:\Users\andris.v16\Downloads\VideoLeigan\VideoLeigan\VideoLeigan\bin\Debug\VideoLeigan.exe
+C:\Users\andris.v16\Downloads\VideoLeigan\VideoLeigan\VideoLeigan\bin\Debug\VideoLeigan.pdb
+C:\Users\andris.v16\Downloads\VideoLeigan\VideoLeigan\VideoLeigan\obj\Debug\VideoLeigan.csprojResolveAssemblyReference.cache
